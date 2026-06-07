@@ -32,25 +32,43 @@
 
 ---
 
-# 🚀 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,react,nodejs,express,mongodb,mysql,tailwind,tensorflow,git,github,docker,vscode,html,css" />
-</p>
+# 💻 Tech Stack
 
 ---
 
-# 🛠️ Skills
+## 🌐 Full Stack Development
+![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-| 💻 Languages         | 🌐 Full Stack Development | 🤖 AI & Data Science   | 🗄️ Databases     |
-| -------------------- | ------------------------- | ---------------------- | ----------------- |
-| **C++** — 90%        | **React.js** — 85%        | **TensorFlow** — 70%   | **MongoDB** — 82% |
-| **Python** — 85%     | **Node.js** — 82%         | **Pandas** — 82%       | **MySQL** — 80%   |
-| **JavaScript** — 88% | **Express.js** — 80%      | **Scikit-Learn** — 75% |                   |
-|                      | **Tailwind CSS** — 88%    | **Seaborn** — 72%      |                   |
-|                      | **HTML5** — 95%           |                        |                   |
-|                      | **CSS3** — 90%            |                        |                   |
+---
 
+## 🤖 TECH STACK
+![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/aws-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 🚀 Currently Exploring
+- Generative AI (LLMs, RAG systems)
+- LangChain
+- Hugging Face Transformers
+- Vector Databases (FAISS / Pinecone)
+- AI Agents
 ---
 
 # 🌐 Connect With Me
