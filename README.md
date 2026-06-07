@@ -12,7 +12,7 @@
 
 
 <h3 align="center">
-🚀 Software Engineer | MERN Stack Developer | DSA & AI Enthusiast
+🚀 Software Engineer | MERN Stack Developer | Exploring AI 
 </h3>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ### 👩‍💻 About Me
 
-* 🌱 Currently learning **DSA, System Design & Deep Learning**
+* 🌱 Currently learning **DSA, System Design & Generative AI**
 * 🚀 Interested in **AI-powered applications & scalable systems**
 * 📫 Reach me at: **[siddiquekashish654@gmail.com](mailto:siddiquekashish654@gmail.com)**
 * ⚡ Fun fact: **I can debug for hours and still enjoy coding 😄**
