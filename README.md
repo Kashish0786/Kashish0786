@@ -30,9 +30,7 @@
 
 <br>
 
----
-
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -46,37 +44,39 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
+<br>
 
 ## 🌐 Full Stack Development
-![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+<br>
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kashish-parween-b77457288/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
+  <a href="https://www.linkedin.com/in/kashish-parween-b77457288">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
-  <a href="https://github.com/Kashish0786" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="32" />
+  <a href="https://github.com/Kashish0786">
+    <img src="https://skillicons.dev/icons?i=github" height="30" />
   </a>
-  <a href="https://leetcode.com/u/kashish_parween786/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode" height="30" />
+  <a href="https://leetcode.com/u/kashish_parween786/">
+    <img src="https://cdn.simpleicons.org/leetcode" height="28" />
   </a>
   <a href="mailto:siddiquekashish654@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="32" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" />
   </a>
 </p>
----
+
+<br>
 
 <h3 align="center">
-✨ “Code. Learn. Build. Repeat.” ✨
+✨ Code • Learn • Build • Repeat ✨
 </h3>
