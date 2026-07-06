@@ -16,40 +16,30 @@
 <table>
 <tr>
 
-<td width="58%">
+<td width="70%" valign="top">
 
 ### 💻 Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Currently Exploring**
-
-- 🤖 Generative AI
-- 🏗️ System Design
-- 📚 Data Structures & Algorithms
-
 </td>
 
-<td width="42%" align="center">
+<td width="30%" align="center" valign="middle">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
 
@@ -57,8 +47,6 @@
 
 </tr>
 </table>
-
-<br>
 
 ## 🌐 Full Stack Development
 
@@ -74,20 +62,9 @@
 
 ## 🏆 LeetCode Stats
 
-<table align="center">
-<tr>
-
-<td align="center">
-<h4>Problems Solved</h4>
-
-<img src="https://leetcard.jacoblin.cool/kashish_parween786?theme=dark&font=Poppins&ext=heatmap" width="320"/>
-
-</td>
-
-</tr>
-</table>
-
-<br>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/kashish_parween786?theme=dark&font=Poppins" width="400"/>
+</p>
 
 ## 🌐 Connect With Me
 
