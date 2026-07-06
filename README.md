@@ -15,13 +15,6 @@
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## 👩‍💻 About Me
-
-- 🌱 Currently learning **DSA, System Design & Generative AI**
-- 🚀 Interested in **AI-powered applications & scalable systems**
-- 📫 Reach me at **siddiquekashish654@gmail.com**
-- ⚡ Fun fact: **I can debug for hours and still enjoy coding 😄**
-
 <br clear="right"/>
 
 ## 💻 Tech Stack
