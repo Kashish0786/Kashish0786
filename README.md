@@ -59,26 +59,22 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kashish-parween-b77457288/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="https://github.com/Kashish0786" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-<a href="https://leetcode.com/u/kashish_parween786/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode" height="45"/>
-</a>
-
-<a href="mailto:siddiquekashish654@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
+  <a href="https://www.linkedin.com/in/kashish-parween-b77457288/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
+  </a>
+  <a href="https://github.com/Kashish0786" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="32" />
+  </a>
+  <a href="https://leetcode.com/u/kashish_parween786/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode" height="30" />
+  </a>
+  <a href="mailto:siddiquekashish654@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="32" />
+  </a>
 </p>
-
 ---
 
 <h3 align="center">
